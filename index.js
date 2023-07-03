@@ -1,7 +1,3 @@
-const helloWorld = () => {
-    console.log("hello World");
-}
+import { Height, FontSize, Width } from "./src/index.js";
 
-export {helloWorld}
-
-
+export { Height, FontSize, Width };
